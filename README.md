@@ -1,16 +1,13 @@
-# expenses
+# quizz_game
 
-A new Flutter project.
+A personal expenses app made in Flutter
 
-## Getting Started
+![teste](https://user-images.githubusercontent.com/60455369/184395813-3341483c-3049-43f0-9be0-db84b9a133f6.PNG)
+![teste 2](https://user-images.githubusercontent.com/60455369/184396625-68288c8b-cb88-477a-bc60-1b4668be9d9b.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# running instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this app on a machine with flutter installed, just run the following code on your terminal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```flutter run```
